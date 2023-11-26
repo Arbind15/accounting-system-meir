@@ -1,0 +1,29 @@
+.logo-pic{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.cus-btn{
+    width: fit-content;
+    padding: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 10px;
+    margin: 5px;
+}
+.cus-btn:hover{
+    cursor: pointer;
+    opacity: 0.7;
+}
+.m-container-div{
+    background-color: rgba(255, 18, 0, 0.23);
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.add-sup-table tr td:first-child{
+    text-align: end;
+}
+.add-sup-table tr td:last-child{
+    text-align: start;
+}
